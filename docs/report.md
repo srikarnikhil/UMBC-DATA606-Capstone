@@ -148,6 +148,32 @@ This suggests that with access to more powerful hardware or distributed training
 ### Web Application
 - Developed using Streamlit for easy deployment and user interaction.
 - Features include object detection on images and videos, with future plans for live camera feed integration.
+- 
+## Web Application Features
+
+Our web application, developed using Streamlit, leverages the YOLOv8 model and OpenCV to provide robust object detection capabilities. Below are the key features:
+
+### 1. User-Friendly Interface
+- **Image and Video Upload**: Users can upload images or videos in various formats (png, jpg, jpeg, mp4).
+- **Object Selection**: Allows users to select specific objects to detect from a list of predefined classes. If no objects are selected, the app defaults to detecting all classes.
+
+### 2. Customizable Detection Parameters
+- **Confidence Score Slider**: Users can set a minimum confidence score to filter detections, ensuring only high-confidence objects are highlighted.
+
+### 3. Real-Time Processing
+- **Image Detection**: Upon uploading an image, the app processes it and displays the detected objects with bounding boxes and labels directly on the image.
+- **Video Detection**: For video uploads, the app processes each frame to detect objects, annotating them with bounding boxes and labels, and outputs a processed video.
+
+### 4. Advanced Processing Capabilities
+- **Bounding Box Drawing**: Uses OpenCV to draw bounding boxes around detected objects, enhancing visual clarity.
+- **Labeling**: Annotates objects with their class names and confidence scores.
+
+These features make the application versatile and user-friendly, suitable for various object detection tasks in both images and videos.
+
+---
+
+Make sure to replace placeholders with actual links to your GitHub profile, LinkedIn profile, presentation, and YouTube video as needed.
+
 
 ## 7. Conclusion
 
