@@ -80,6 +80,10 @@ Each row represents an image with annotations for various objects within the ima
 ### Target Variable
 - The target variable is the bounding box coordinates for object detection.
 
+* **Example Objects in the Images**:
+*  [Example 1](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-1.png)
+*  [Example 2](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-2.png)
+
 ### Features
 - Image data and associated annotations (bounding boxes, object categories).
 
@@ -167,12 +171,6 @@ Our web application, developed using Streamlit, leverages the YOLOv8 model and O
 ### 4. Advanced Processing Capabilities
 - **Bounding Box Drawing**: Uses OpenCV to draw bounding boxes around detected objects, enhancing visual clarity.
 - **Labeling**: Annotates objects with their class names and confidence scores.
-
-These features make the application versatile and user-friendly, suitable for various object detection tasks in both images and videos.
-
----
-
-Make sure to replace placeholders with actual links to your GitHub profile, LinkedIn profile, presentation, and YouTube video as needed.
 
 
 ## 7. Conclusion
