@@ -81,8 +81,8 @@ Each row represents an image with annotations for various objects within the ima
 - The target variable is the bounding box coordinates for object detection.
 
 * **Example Objects in the Images**:
-*  [Example 1](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-1.png)
-*  [Example 2](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-2.png)
+*  ![image](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-1.png)
+*  ![image](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/example_objects-2.png)
 
 ### Features
 - Image data and associated annotations (bounding boxes, object categories).
