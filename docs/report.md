@@ -7,8 +7,8 @@
 * **Author**: Srikar Nikhil Vanama
 * **GitHub Profile**: [Srikar Nikhil Vanama](https://github.com/srikarnikhil)
 * **LinkedIn Profile**: [Srikar Nikhil Vanama](https://www.linkedin.com/in/srikarnikhil)
-* **PowerPoint Presentation**: [Link to Presentation](link_to_presentation)
-* **YouTube Video**: [Link to YouTube Video](link_to_youtube_video)
+* **PowerPoint Presentation**: [Link to Presentation](https://github.com/srikarnikhil/UMBC-DATA606-Capstone/blob/main/docs/Object%20Detection%20YOLO.pptx)
+* **YouTube Video**: [Link to YouTube Video](https://youtu.be/lCKZ107lZv4)
 
 ## 2. Background
 
