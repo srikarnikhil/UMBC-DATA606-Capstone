@@ -3,7 +3,7 @@
 ## 1. Title and Author
 
 * **Project Title**: Object Detection Using YOLOv8 and Streamlit
-* **Prepared for**: UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
+* **Prepared for**: UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang SPRING 2024   
 * **Author**: Srikar Nikhil Vanama
 * **GitHub Profile**: [Srikar Nikhil Vanama](https://github.com/srikarnikhil)
 * **LinkedIn Profile**: [Srikar Nikhil Vanama](https://www.linkedin.com/in/srikarnikhil)
